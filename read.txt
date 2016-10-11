@@ -14,3 +14,4 @@ Creating a new branch is quick AND simple.
 >>>>>>> feature1
 Creating a new branch is quick and simple.
 I will change the file, and I will know how the git works.
+Just repair it !
